@@ -60,3 +60,36 @@ This project uses the following Python libraries:
 pandas
 numpy
 matplotlib
+```
+---
+
+## 🚀 To Run:
+1. Open the `.ipynb` notebook in Google Colab or Jupyter Notebook
+2. Run the cells in order
+3. Provide user input (movie titles and ratings) when prompted
+4. View the recommended movie list at the end
+
+---
+
+## 📊 Sample Output
+If a user rates these movies:
+- "Toy Story" ⭐⭐⭐⭐⭐
+- "Jumanji" ⭐⭐⭐⭐
+- "Pulp Fiction" ⭐⭐⭐⭐
+
+The system might recommend:
+1. "Aladdin" (Similarity: 92%)
+2. "The Lion King" (Similarity: 89%)
+3. "Reservoir Dogs" (Similarity: 85%)
+
+> Recommendations are based on genre similarity to rated movies
+
+---
+
+## 🤝 Contributions
+Have an idea to improve the system? Want to add features like:
+- 🎭 Actor/Director analysis
+- 📝 Plot summaries (NLP processing)
+- 💬 User reviews integration
+- 🎞️ Movie poster visualization
+
